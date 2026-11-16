@@ -1,4 +1,4 @@
-# EDITH Bike Watch
+# EDITH Map Navigator
 
 A smartwatch-style ESP32-C3 project with a 1.8-inch ST7735 TFT. It connects to the Chronos companion app over Bluetooth Low Energy and displays a digital clock, analog dial, navigation information, music metadata, and notification popups. The digital clock uses a custom Spider-Man wallpaper.
 
